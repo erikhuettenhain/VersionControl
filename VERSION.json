@@ -1,7 +1,7 @@
 {
     "Version":1,
-    "SubVersion": 10,
+    "SubVersion": 12,
     "SubSubVersion": 0,
-    "PackedVersion":"1.10",
-    "ReleaseDate": "26.09.2022"
+    "PackedVersion":"1.12",
+    "ReleaseDate": "09.11.2022"
 }
